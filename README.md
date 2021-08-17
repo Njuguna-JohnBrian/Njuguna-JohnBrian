@@ -1,8 +1,7 @@
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/65115573?s=400&u=2df7302fb16f85639da8b9d12fc5a141f2328ca8&v=4"/> </p>
 
 <h1 align="center">Hi 👋, I'm Njuguna John Brian Ngugi</h1>
-<h3 align="center">A Flutter Developer and CSE Student from Kenya![image](https://user-images.githubusercontent.com/65115573/129744955-1fc4ba11-7b64-4181-b218-0925c30af2e1.png)
-</h3>
+<h3 align="center">A Flutter Developer and CSE Student from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njuguna-johnbrian&label=Profile%20views&color=0e75b6&style=flat" alt="njuguna-johnbrian" /> </p>
 
