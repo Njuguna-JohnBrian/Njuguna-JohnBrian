@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/65115573?s=400&u=2df7302fb16f85639da8b9d12fc5a141f2328ca8&v=4"/> </p>
+
 <h1 align="center">Hi 👋, I'm Njuguna John Brian Ngugi</h1>
 <h3 align="center">A Flutter Developer and CSE Student from Kenya</h3>
 
