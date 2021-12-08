@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [A Water Drinking Reminder App]((will be available soon))
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://hashnode.com/@NjugunaJB](https://hashnode.com/@NjugunaJB)
 
-- 💬 Ask me about **Flutter, Dart , Python, Firebase**
+- 💬 Ask me about **Flutter, Dart , Python, Firebase, React, NodeJs, MondoDB**
 
 - 📫 How to reach me **njugunajb96@gmail.com**
 
