@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@NjugunaJB](https://hashnode.com/@NjugunaJB)
 
-- 💬 Ask me about **Flutter, Dart , Python, Firebase, React, NodeJs, MondoDB**
+- 💬 Ask me about **Flutter, Dart , Python, Firebase, React, NodeJs, MondoDB and SQL**
 
 - 📫 How to reach me **njugunajb96@gmail.com**
 
