@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njuguna-johnbrian" alt="njuguna-johnbrian" /></a> </p>
 
-[![wakatime](https://wakatime.com/badge/user/e7083d89-84d4-4c69-96bc-e43e98d38d80.svg)](https://wakatime.com/@e7083d89-84d4-4c69-96bc-e43e98d38d80)
+
+[![wakatime](https://wakatime.com/badge/user/32d5c148-348d-4fed-914f-a0e741f33867.svg)](https://wakatime.com/@32d5c148-348d-4fed-914f-a0e741f33867)
 
 <p align="left"> <a href="https://twitter.com/@njuguna_jb" target="blank"><img src="https://img.shields.io/twitter/follow/@njuguna_jb?logo=twitter&style=for-the-badge" alt="@njuguna_jb" /></a> </p>
 
