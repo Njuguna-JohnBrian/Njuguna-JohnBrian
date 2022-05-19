@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/65115573?s=400&u=2df7302fb16f85639da8b9d12fc5a141f2328ca8&v=4"/> </p>
-
-<h1 align="center">Hi 👋, I'm John Brian Ngugi  Njuguna</h1>
-<h3 align="center">A Flutter, React & Javascript Developer and CSE Graduate from Kenya</h3>
+<h1 align="center">Hi , I'm John Brian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Competitive+Programmer;Computer+Science+Graduate;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njuguna-johnbrian&label=Profile%20views&color=0e75b6&style=flat" alt="njuguna-johnbrian" /> </p>
 
