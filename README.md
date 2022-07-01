@@ -10,6 +10,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/32d5c148-348d-4fed-914f-a0e741f33867.svg)](https://wakatime.com/@32d5c148-348d-4fed-914f-a0e741f33867)
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&cover_image=true&theme=default&bar_color=245ac6&bar_color_cover=true)]]
+
 <p align="left"> <a href="https://twitter.com/@njuguna_jb" target="blank"><img src="https://img.shields.io/twitter/follow/@njuguna_jb?logo=twitter&style=for-the-badge" alt="@njuguna_jb" /></a> </p>
 
 - 🔭 I’m currently working on [A Water Drinking Reminder App]((will be available soon))
