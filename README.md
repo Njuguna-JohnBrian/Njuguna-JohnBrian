@@ -5,34 +5,47 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njuguna-johnbrian&label=Profile%20views&color=0e75b6&style=flat" alt="njuguna-johnbrian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njuguna-johnbrian" alt="njuguna-johnbrian" /></a> </p>
-
 
 [![wakatime](https://wakatime.com/badge/user/32d5c148-348d-4fed-914f-a0e741f33867.svg)](https://wakatime.com/@32d5c148-348d-4fed-914f-a0e741f33867)
 
-<p>
-  
-  <a href='https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&redirect=true'> <img src='https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&cover_image=true&theme=default&bar_color=245ac6&bar_color_cover=true'/> </a> </p>
+- 🔭 I’m currently working on an Instagram Clone
 
-<p align="left"> <a href="https://twitter.com/@njuguna_jb" target="blank"><img src="https://img.shields.io/twitter/follow/@njuguna_jb?logo=twitter&style=for-the-badge" alt="@njuguna_jb" /></a> </p>
+- 🌱 I’m currently learning **BlockChain**
 
-- 🔭 I’m currently working on [A Water Drinking Reminder App]((will be available soon))
+- 💬 Ask me about
 
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [https://hashnode.com/@NjugunaJB](https://hashnode.com/@NjugunaJB)
-
-- 💬 Ask me about **Flutter, Dart , Python, Firebase, React, NodeJs, MondoDB and SQL**
+      - Languages
+                - Javascript
+                - TypeScript
+                - Dart
+                - Flutter
+      - Frameworks
+                - Angular
+                - React
+                - NestJs
+      - Databases
+                - PostgreSQL
+                - MongoDB
+                - SQL
+                
 
 - 📫 How to reach me **njugunajb96@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/njuguna-johnbrian-ngugi/](https://www.linkedin.com/in/njuguna-johnbrian-ngugi/)
 
-- ⚡ Fun fact **I can focus for 5 hours🤓**
+- ⚡ Fun fact **I can am a Sagittarius ♐♐**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njuguna-johnbrian" alt="njuguna-johnbrian" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njuguna-johnbrian&show_icons=true&locale=en&layout=compact" alt="njuguna-johnbrian" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njuguna-johnbrian&show_icons=true&locale=en" alt="njuguna-johnbrian" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&" alt="njuguna-johnbrian" /></p>
+
+<p>
+  
+  <a href='https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&redirect=true'> <img src='https://spotify-github-profile.vercel.app/api/view.svg?uid=ax09d6estnxd7yo84u5ru1pxc&cover_image=true&theme=default&bar_color=245ac6&bar_color_cover=true'/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,8 +63,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njuguna-johnbrian&show_icons=true&locale=en&layout=compact" alt="njuguna-johnbrian" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njuguna-johnbrian&show_icons=true&locale=en" alt="njuguna-johnbrian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&" alt="njuguna-johnbrian" /></p>
