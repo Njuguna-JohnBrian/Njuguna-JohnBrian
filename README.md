@@ -8,7 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/32d5c148-348d-4fed-914f-a0e741f33867.svg)](https://wakatime.com/@32d5c148-348d-4fed-914f-a0e741f33867)
 
-- 🔭 I’m currently working on an Instagram Clone
+- 🔭 I’m currently working on an [Instagram Clone](https://github.com/Njuguna-JohnBrian/Instagram)
 
 - 🌱 I’m currently learning **BlockChain**
 
