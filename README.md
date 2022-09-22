@@ -29,9 +29,9 @@
                 - SQL
                 
 
-- 📫 How to reach me **njugunajb96@gmail.com**
+-  Reach me through my email [🗨🗨](njugunajb96@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/njuguna-johnbrian-ngugi/](https://www.linkedin.com/in/njuguna-johnbrian-ngugi/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/njuguna-johnbrian-ngugi/)
 
 - ⚡ Fun fact **I can am a Sagittarius ♐♐**
 
