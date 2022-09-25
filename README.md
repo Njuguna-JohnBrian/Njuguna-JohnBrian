@@ -18,15 +18,33 @@
                 - Javascript
                 - TypeScript
                 - Dart
-                - Flutter
+                - Python
+                
       - Frameworks
                 - Angular
                 - React
                 - NestJs
+                - Flask
+                - Django
+                
       - Databases
                 - PostgreSQL
                 - MongoDB
-                - SQL
+                - MSSQL
+                
+      - Mobile
+                - Flutter
+                
+      - Testing
+                - Jest
+                - Mocha
+                - Cypress
+                - Jasmine
+      - Containers
+                - Docker
+                
+      - Container Orchestration
+                - Kubernetes
                 
 
 -  Reach me through my email [🗨🗨](njugunajb96@gmail.com)
