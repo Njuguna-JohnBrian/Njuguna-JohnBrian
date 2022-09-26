@@ -12,10 +12,11 @@
 
 
 <p align="center">
--  Reach me through my email [🗨🗨](njugunajb96@gmail.com)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/njuguna-johnbrian-ngugi/)
-- ⚡ Fun fact: **I can am a Sagittarius ♐♐**
-- 🙏 Thank You For Stopping By.
+  
+- Reach me through my email [🗨🗨](njugunajb96@gmail.com)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/njuguna-johnbrian-ngugi/) 
+- ⚡ Fun fact: **I can am a Sagittarius ♐♐** 
+- 🙏 Thank You For Stopping By. 
 - 👋 Adios
 </p>
 
