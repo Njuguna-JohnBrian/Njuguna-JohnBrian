@@ -26,7 +26,7 @@
 
 <p>
 <a href="">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njuguna-JohnBrian&layout=compact&heigt=&theme=algolia">
 </a>
 <a href="">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Njuguna-JohnBrian&count_private=true&show_icons=true&theme=algolia">
@@ -37,7 +37,7 @@
 <p>
 
 <a href="">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njuguna-JohnBrian&layout=compact&heigt=&theme=algolia">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
 </a>
 
 </p>
