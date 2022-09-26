@@ -26,7 +26,7 @@
 
 <p>
 <a href="">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
 </a>
 <a href="">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Njuguna-JohnBrian&count_private=true&show_icons=true&theme=algolia">
