@@ -37,7 +37,7 @@
 <p>
 
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njuguna-JohnBrian&layout=compact&heigt=&theme=algolia">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njuguna-JohnBrian&layout=compact&heigt=&theme=algolia">
 </a>
 
 </p>
