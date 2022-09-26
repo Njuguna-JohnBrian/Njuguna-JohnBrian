@@ -37,7 +37,7 @@
 <p>
 
 <a href="">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
 </a>
 
 </p>
