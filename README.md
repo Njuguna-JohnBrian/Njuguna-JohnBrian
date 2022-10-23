@@ -37,5 +37,4 @@
 </a>
 </p>
 
-
-<img  src="https://wakatime.com/share/@njuguna_jb/b1dc39f1-b19f-4be1-a8fe-10cb2fc83b88.svg">
+<img src="https://wakatime.com/share/@njuguna_jb/48846c0f-953d-47f6-8585-2951515c2b55.svg">
