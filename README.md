@@ -37,4 +37,8 @@
 </a>
 </p>
 
-<img src="https://wakatime.com/share/@njuguna_jb/b1dc39f1-b19f-4be1-a8fe-10cb2fc83b88.svg">
+<p>
+<a href="">
+<img height="50" width="50" src="https://wakatime.com/share/@njuguna_jb/b1dc39f1-b19f-4be1-a8fe-10cb2fc83b88.svg">
+ </a>
+</p>
