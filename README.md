@@ -36,5 +36,3 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=njuguna-johnbrian&theme=algolia" alt="njuguna-johnbrian" />
 </a>
 </p>
-
-<img src="https://wakatime.com/share/@njuguna_jb/48846c0f-953d-47f6-8585-2951515c2b55.svg">
